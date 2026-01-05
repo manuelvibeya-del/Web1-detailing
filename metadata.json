@@ -1,0 +1,8 @@
+{
+  "name": "Latino Shine Auto Detailing",
+  "description": "Premium mobile car detailing services for the Latino community in the US, featuring advanced AI tools for vehicle analysis and visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
